@@ -1,7 +1,7 @@
 # rev3-tinyUSBboard-PCB
 TinyUSBboard revision 3 PCB Eagle files (single sided tht bb_1.2_rev3_tinyUSBboard)
 
-This board design is intended to create a tinyUSBboard rev3 as a singlesided pcb with the toner transfer method.
+This board design is intended to create a tinyUSBboard rev3 as a singlesided PCB with the toner transfer method.
 The board allows to use both common available components and the specified (and recommended) components from the tinyUSBboard-rev3 kit.
 
 see also:
