@@ -27,6 +27,7 @@ To build the board properly it's best to open all layers of tinyusbboard_tht_sin
 Some airwires are created on the toplayer.
 
 # Instructions
-Build instructions with images follow later (todo)
+Build instructions with images can be found here:
+http://wiki.bauwe.nl/TinyUSBboard/Building_TinyUSBboard_rev3_PCB
 
 
